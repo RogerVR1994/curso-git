@@ -1,2 +1,11 @@
 Hola, me llamo Kotasek
+<<<<<<< HEAD
 Fede se acaba de unir al equipo
+=======
+
+Yo Federico, hice este pedazo de código
+
+
+
+Tengo hambre
+>>>>>>> rama-fede
